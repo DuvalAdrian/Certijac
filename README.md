@@ -1,2 +1,0 @@
-# Certijac
-Certijac tienda virtual
